@@ -1,0 +1,187 @@
+[19:20:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:20:53] [Server thread/INFO]: Loading properties
+[19:20:53] [Server thread/INFO]: Default game type: SURVIVAL
+[19:20:53] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[19:20:53] [Server thread/INFO]: Debug logging is disabled
+[19:20:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:20:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:20:53] [Server thread/INFO]: Generating keypair
+[19:20:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:20:53] [Server thread/INFO]: Using epoll channel type
+[19:20:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:20:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:20:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:20:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:20:53] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[19:20:53] [Server thread/INFO]: Preparing level "MAIN VVORLD"
+[19:20:53] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD] --------
+[19:20:53] [Server thread/INFO]: Mob Spawn Range: 4
+[19:20:53] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:20:53] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:20:53] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:20:53] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:20:53] [Server thread/INFO]: Random Lighting Updates: false
+[19:20:53] [Server thread/INFO]: Structure Info Saving: true
+[19:20:53] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:20:53] [Server thread/INFO]: Max TNT Explosions: 100
+[19:20:53] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:20:53] [Server thread/INFO]: View Distance: 8
+[19:20:53] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:20:53] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:20:53] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:20:53] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:20:53] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:20:53] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:20:53] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:20:54] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_nether] --------
+[19:20:54] [Server thread/INFO]: Mob Spawn Range: 4
+[19:20:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:20:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:20:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:20:54] [Server thread/INFO]: Random Lighting Updates: false
+[19:20:54] [Server thread/INFO]: Structure Info Saving: true
+[19:20:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:20:54] [Server thread/INFO]: Max TNT Explosions: 100
+[19:20:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:20:54] [Server thread/INFO]: View Distance: 8
+[19:20:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:20:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:20:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:20:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:20:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:20:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:20:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:20:54] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_the_end] --------
+[19:20:54] [Server thread/INFO]: Mob Spawn Range: 4
+[19:20:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:20:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[19:20:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:20:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:20:54] [Server thread/INFO]: Random Lighting Updates: false
+[19:20:54] [Server thread/INFO]: Structure Info Saving: true
+[19:20:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[19:20:54] [Server thread/INFO]: Max TNT Explosions: 100
+[19:20:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:20:54] [Server thread/INFO]: View Distance: 8
+[19:20:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:20:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:20:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[19:20:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:20:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:20:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:20:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:20:54] [Server thread/INFO]: Preparing start region for level 0 (Seed: -8223706082521503650)
+[19:20:55] [Server thread/INFO]: Preparing spawn area: 12%
+[19:20:56] [Server thread/INFO]: Preparing spawn area: 31%
+[19:20:57] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8223706082521503650)
+[19:20:58] [Server thread/INFO]: Preparing spawn area: 33%
+[19:20:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8223706082521503650)
+[19:20:58] [Server thread/INFO]: Done (5.170s)! For help, type "help" or "?"
+[19:20:58] [Server thread/INFO]: Timings Reset
+[19:21:13] [User Authenticator #1/INFO]: UUID of player lastreliance is 7c176d94-d16a-3d32-807b-bffe7ff3c65e
+[19:21:13] [Server thread/INFO]: lastreliance[/127.0.0.1:53338] logged in with entity id 1151 at ([MAIN VVORLD]78.5, 65.0, 252.5)
+[19:22:17] [User Authenticator #2/INFO]: UUID of player Ogurets957 is c6cd7338-3df9-3442-b768-4b6e9c1d76f6
+[19:22:17] [Server thread/INFO]: Ogurets957[/192.168.1.6:64018] logged in with entity id 1348 at ([MAIN VVORLD]85.5, 65.0, 241.5)
+[19:22:40] [Async Chat Thread - #0/INFO]: <Ogurets957> говно
+[19:24:28] [Server thread/INFO]: Ogurets957 has made the advancement [Stone Age]
+[19:24:37] [Server thread/INFO]: lastreliance has made the advancement [Stone Age]
+[19:25:00] [Server thread/INFO]: lastreliance has made the advancement [Getting an Upgrade]
+[19:26:10] [Server thread/INFO]: Teleported Ogurets957 to lastreliance
+[19:26:10] [Server thread/WARN]: Ogurets957 moved too quickly! 23.50869902177915,1.0,5.362091096148077
+[19:26:23] [Server thread/INFO]: Teleported Ogurets957 to lastreliance
+[19:26:23] [Server thread/WARN]: Ogurets957 moved too quickly! 27.30837109373458,0.0,2.458092333064428
+[19:27:48] [Server thread/INFO]: Ogurets957 fell out of the world
+[19:27:48] [Server thread/INFO]: Killed Ogurets957
+[19:28:06] [Server thread/INFO]: lastreliance has made the advancement [Acquire Hardware]
+[19:28:16] [Server thread/INFO]: lastreliance has made the advancement [Isn't It Iron Pick]
+[19:31:52] [Server thread/INFO]: Ogurets957 has made the advancement [Getting an Upgrade]
+[19:32:29] [Server thread/INFO]: Ogurets957 was slain by Zombie
+[19:33:23] [Server thread/INFO]: lastreliance has made the advancement [Monster Hunter]
+[19:37:47] [Server thread/INFO]: Teleported Ogurets957 to 31.5, 59.0, 232.5
+[19:37:47] [Server thread/WARN]: Ogurets957 moved too quickly! -6.029816305472373,2.0,-10.54389920412413
+[19:40:12] [Server thread/INFO]: lastreliance has made the advancement [Suit Up]
+[19:40:36] [Server thread/INFO]: Given [Bedrock] * 5 to lastreliance
+[19:41:44] [Server thread/INFO]: Teleported Ogurets957 to 83.5, 65.0, 249.5
+[19:41:44] [Server thread/WARN]: Ogurets957 moved too quickly! 56.09586272111402,-9.0,28.36029181665873
+[19:41:56] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:42:00] [Server thread/INFO]: Teleported Ogurets957 to 83.5, 65.0, 249.5
+[19:42:00] [Server thread/WARN]: Ogurets957 moved wrongly!
+[19:42:06] [Server thread/INFO]: Given [Bedrock] * 1 to lastreliance
+[19:42:28] [Server thread/INFO]: Teleported Ogurets957 to 83.5, 65.0, 249.5
+[19:42:28] [Server thread/WARN]: Ogurets957 moved too quickly! 22.728521273502345,0.2468000194787976,-11.027371912665444
+[19:43:31] [Server thread/INFO]: Cleared the inventory of Ogurets957, removing 31 items
+[19:43:45] [Server thread/INFO]: Cleared the inventory of Ogurets957, removing 1 items
+[19:43:58] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:44:01] [Server thread/INFO]: Teleported Ogurets957 to 83.5, 65.0, 249.5
+[19:44:08] [Server thread/INFO]: Ogurets957 issued server command: /gamemode creative
+[19:44:10] [Server thread/INFO]: Ogurets957 lost connection: Disconnected
+[19:44:10] [Server thread/INFO]: Ogurets957 left the game
+[19:45:00] [Server thread/INFO]: Set lastreliance's game mode to Creative Mode
+[19:45:20] [Server thread/INFO]: Set lastreliance's game mode to Survival Mode
+[19:46:13] [Server thread/INFO]: lastreliance lost connection: Disconnected
+[19:46:13] [Server thread/INFO]: lastreliance left the game
+[19:46:55] [User Authenticator #3/INFO]: UUID of player Ogurets957 is c6cd7338-3df9-3442-b768-4b6e9c1d76f6
+[19:46:55] [Server thread/INFO]: Ogurets957[/192.168.1.6:64144] logged in with entity id 3589 at ([MAIN VVORLD]83.5, 65.0, 249.5)
+[19:47:04] [Async Chat Thread - #1/INFO]: <Ogurets957> g
+[19:47:08] [Server thread/INFO]: Ogurets957 issued server command: /.
+[19:47:20] [Async Chat Thread - #1/INFO]: <Ogurets957> PTH[RYP]RYOJHN
+[19:47:40] [User Authenticator #3/INFO]: UUID of player lastreliance is 7c176d94-d16a-3d32-807b-bffe7ff3c65e
+[19:47:40] [Server thread/INFO]: lastreliance[/127.0.0.1:58312] logged in with entity id 3612 at ([MAIN VVORLD]99.90641454529074, 67.0, 189.23137966069595)
+[19:48:00] [Server thread/INFO]: Teleported Ogurets957 to lastreliance
+[19:48:00] [Server thread/WARN]: Ogurets957 moved too quickly! 20.076713788943536,2.0,-55.49758625660377
+[19:49:51] [Server thread/INFO]: Teleported Ogurets957 to lastreliance
+[19:49:51] [Server thread/WARN]: Ogurets957 moved too quickly! -25.564188271573215,0.0,-12.312775074932574
+[19:49:55] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:50:02] [Server thread/INFO]: Teleported Ogurets957 to 83.5, 65.0, 249.5
+[19:50:02] [Server thread/WARN]: Ogurets957 moved too quickly! 8.0,-2.0,11.0
+[19:50:08] [Server thread/INFO]: Teleported lastreliance to 83.5, 65.0, 249.5
+[19:50:14] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:50:20] [Server thread/INFO]: Ogurets957 lost connection: Disconnected
+[19:50:20] [Server thread/INFO]: Ogurets957 left the game
+[19:51:27] [User Authenticator #4/INFO]: UUID of player Ogurets957 is c6cd7338-3df9-3442-b768-4b6e9c1d76f6
+[19:51:27] [Server thread/INFO]: Ogurets957[/192.168.1.6:64333] logged in with entity id 4719 at ([MAIN VVORLD]79.5, 65.0, 247.5)
+[19:53:37] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:53:44] [Server thread/INFO]: Teleported lastreliance to 83.5, 65.0, 249.5
+[19:53:48] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:54:22] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:54:33] [Server thread/INFO]: Ogurets957 was slain by lastreliance
+[19:56:14] [Server thread/INFO]: Ogurets957 has made the advancement [Acquire Hardware]
+[19:58:17] [Server thread/INFO]: Ogurets957 lost connection: Disconnected
+[19:58:17] [Server thread/INFO]: Ogurets957 left the game
+[19:58:26] [Server thread/INFO]: lastreliance lost connection: Disconnected
+[19:58:26] [Server thread/INFO]: lastreliance left the game
+[19:58:30] [Server thread/INFO]: Stopping the server
+[19:58:30] [Server thread/INFO]: Stopping server
+[19:58:30] [Server thread/INFO]: Saving players
+[19:58:30] [Server thread/INFO]: Saving worlds
+[19:58:30] [Server thread/INFO]: Saving chunks for level 'MAIN VVORLD'/overworld
+[19:58:30] [Server thread/INFO]: Saving chunks for level 'MAIN VVORLD_nether'/the_nether
+[19:58:30] [Server thread/INFO]: Saving chunks for level 'MAIN VVORLD_the_end'/the_end
