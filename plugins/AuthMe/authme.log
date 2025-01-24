@@ -1,0 +1,20 @@
+[01-24 10:45:20]: [INFO] Created column 'regdate' and set the current timestamp, 1737686720196, to all 0 rows
+[01-24 10:45:20]: [INFO] SQLite Setup finished
+[01-24 10:45:20]: [INFO] No supported permissions system found! Permissions are disabled!
+[01-24 10:45:22]: [INFO] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[01-24 10:45:22]: [INFO] AuthMeReReloaded is running on Paper
+[01-24 10:45:22]: [INFO] AuthMeReReloaded is enabled successfully!
+[01-24 10:45:22]: [INFO] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[01-24 10:45:22]: [INFO] Checking for updates...
+[01-24 10:45:23]: [INFO] You are running the latest version.
+[01-24 10:46:09]: [INFO:FINE] lastreliance registered 192.168.1.7
+[01-24 10:46:10]: [INFO:FINE] lastreliance logged in 192.168.1.7
+[01-24 10:47:18]: [INFO:FINE] last_reliance registered 192.168.1.7
+[01-24 10:47:18]: [INFO:FINE] last_reliance logged in 192.168.1.7
+[01-24 10:48:21]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
