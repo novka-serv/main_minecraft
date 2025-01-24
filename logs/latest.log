@@ -1,191 +1,210 @@
-[10:45:05] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:45:06] [main/INFO]: Found new data pack file/bukkit, loading it automatically
-[10:45:06] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[10:45:07] [Worker-Main-1/INFO]: Loaded 7 recipes
-[10:45:10] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[10:45:10] [Server thread/INFO]: Loading properties
-[10:45:10] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[10:45:10] [Server thread/INFO]: Debug logging is disabled
-[10:45:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:45:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:45:10] [Server thread/INFO]: Default game type: SURVIVAL
-[10:45:10] [Server thread/INFO]: Generating keypair
-[10:45:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:45:11] [Server thread/INFO]: Using epoll channel type
-[10:45:12] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.7.0-FORK-b53
-[10:45:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:45:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:45:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:45:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:45:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:45:12] [Server thread/INFO]: Preparing level "MAIN VVORLD"
-[10:45:12] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD] --------
-[10:45:12] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:45:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:45:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:45:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:45:12] [Server thread/INFO]: Max TNT Explosions: 100
-[10:45:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:45:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:45:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:45:12] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:45:12] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:45:12] [Server thread/INFO]: View Distance: 8
-[10:45:12] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:45:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:45:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:45:12] [Server thread/INFO]: Mob Spawn Range: 4
-[10:45:12] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_nether] --------
-[10:45:12] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:45:12] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:45:12] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:45:12] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:45:12] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:45:12] [Server thread/INFO]: Max TNT Explosions: 100
-[10:45:12] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:45:12] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:45:12] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:45:12] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:45:12] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:45:12] [Server thread/INFO]: View Distance: 8
-[10:45:12] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:45:12] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:45:12] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:45:12] [Server thread/INFO]: Mob Spawn Range: 4
-[10:45:12] [Server thread/WARN]: Unable to find spawn biome
-[10:45:16] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_the_end] --------
-[10:45:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:45:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:45:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:45:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:45:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:45:16] [Server thread/INFO]: Max TNT Explosions: 100
-[10:45:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:45:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:45:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:45:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:45:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:45:16] [Server thread/INFO]: View Distance: 8
-[10:45:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:45:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:45:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:45:16] [Server thread/INFO]: Mob Spawn Range: 4
-[10:45:16] [Server thread/WARN]: Unable to find spawn biome
-[10:45:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:45:17] [Server thread/INFO]: Preparing spawn area: 0%
-[10:45:17] [Server thread/INFO]: Preparing spawn area: 0%
-[10:45:17] [Server thread/INFO]: Time elapsed: 598 ms
-[10:45:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:45:18] [Server thread/INFO]: Preparing spawn area: 0%
-[10:45:18] [Server thread/INFO]: Time elapsed: 436 ms
-[10:45:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:45:18] [Server thread/INFO]: Preparing spawn area: 0%
-[10:45:18] [Server thread/INFO]: Time elapsed: 255 ms
-[10:45:18] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[10:45:18] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[10:45:20] [Server thread/INFO]: [AuthMe] Created column 'regdate' and set the current timestamp, 1737686720196, to all 0 rows
-[10:45:20] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[10:45:20] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[10:45:22] [Server thread/INFO]: [AuthMe] 
+[14:19:22] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:19:22] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[14:19:24] [Worker-Main-1/INFO]: Loaded 7 recipes
+[14:19:26] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:19:26] [Server thread/INFO]: Loading properties
+[14:19:26] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[14:19:26] [Server thread/INFO]: Debug logging is disabled
+[14:19:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:19:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:19:27] [Server thread/INFO]: Default game type: SURVIVAL
+[14:19:27] [Server thread/INFO]: Generating keypair
+[14:19:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:19:27] [Server thread/INFO]: Using epoll channel type
+[14:19:28] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.7.0-FORK-b53
+[14:19:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:19:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:19:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:19:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:19:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:19:28] [Server thread/INFO]: Preparing level "MAIN VVORLD"
+[14:19:28] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD] --------
+[14:19:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:19:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:19:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:19:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:19:28] [Server thread/INFO]: Max TNT Explosions: 100
+[14:19:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:19:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:19:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:19:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:19:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:19:28] [Server thread/INFO]: View Distance: 8
+[14:19:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:19:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:19:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:19:28] [Server thread/INFO]: Mob Spawn Range: 4
+[14:19:28] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_nether] --------
+[14:19:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:19:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:19:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:19:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:19:28] [Server thread/INFO]: Max TNT Explosions: 100
+[14:19:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:19:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:19:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:19:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:19:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:19:28] [Server thread/INFO]: View Distance: 8
+[14:19:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:19:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:19:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:19:28] [Server thread/INFO]: Mob Spawn Range: 4
+[14:19:28] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_the_end] --------
+[14:19:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:19:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Potato Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[14:19:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[14:19:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:19:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[14:19:28] [Server thread/INFO]: Max TNT Explosions: 100
+[14:19:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:19:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:19:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:19:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:19:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:19:28] [Server thread/INFO]: View Distance: 8
+[14:19:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:19:28] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[14:19:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:19:28] [Server thread/INFO]: Mob Spawn Range: 4
+[14:19:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:19:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:19:29] [Server thread/INFO]: Preparing spawn area: 0%
+[14:19:29] [Server thread/INFO]: Time elapsed: 755 ms
+[14:19:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:19:30] [Server thread/INFO]: Time elapsed: 639 ms
+[14:19:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:19:31] [Server thread/INFO]: Time elapsed: 1665 ms
+[14:19:31] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
+[14:19:32] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
+[14:19:33] [Server thread/INFO]: [AuthMe] SQLite Setup finished
+[14:19:33] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
+[14:19:34] [Server thread/INFO]: [AuthMe] 
     ___         __  __    __  ___   
    /   | __  __/ /_/ /_  /  |/  /__ 
   / /| |/ / / / __/ __ \/ /|_/ / _ \
  / ___ / /_/ / /_/ / / / /  / /  __/
 /_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
                                     
-[10:45:22] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
-[10:45:22] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[10:45:22] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[10:45:22] [Server thread/INFO]: [AuthMe] Checking for updates...
-[10:45:22] [Server thread/INFO]: Running delayed init tasks
-[10:45:22] [Server thread/INFO]: Done (11.636s)! For help, type "help"
-[10:45:22] [Server thread/INFO]: Timings Reset
-[10:45:23] [Craft Scheduler Thread - 2/INFO]: [AuthMe] You are running the latest version.
-[10:45:40] [User Authenticator #1/INFO]: UUID of player lastreliance is 7c176d94-d16a-3d32-807b-bffe7ff3c65e
-[10:45:40] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./MAIN VVORLD/advancements/7c176d94-d16a-3d32-807b-bffe7ff3c65e.json - it doesn't exist anymore?
-[10:45:43] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[10:45:43] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
-[10:45:46] [Server thread/INFO]: lastreliance[/192.168.1.7:58352] logged in with entity id 34 at ([MAIN VVORLD]67.75460905472096, 64.0, 251.67605200408005)
-[10:45:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
-[10:46:09] [Server thread/INFO]: [AuthMe] lastreliance registered 192.168.1.7
-[10:46:10] [Craft Scheduler Thread - 7/INFO]: [AuthMe] lastreliance logged in 192.168.1.7
-[10:46:20] [Server thread/INFO]: lastreliance issued server command: /kil
-[10:46:22] [Server thread/INFO]: lastreliance issued server command: /kill
-[10:46:26] [Server thread/INFO]: lastreliance fell out of the world
-[10:46:26] [Server thread/INFO]: Killed lastreliance
-[10:46:31] [Server thread/INFO]: lastreliance lost connection: Disconnected
-[10:47:02] [User Authenticator #2/INFO]: UUID of player last_reliance is 5fca15f8-e503-312b-9fa6-087d8e8af11d
-[10:47:02] [Server thread/INFO]: last_reliance[/192.168.1.7:58454] logged in with entity id 320 at ([MAIN VVORLD]69.5, 64.0, 251.5)
-[10:47:18] [Server thread/INFO]: [AuthMe] last_reliance registered 192.168.1.7
-[10:47:18] [Craft Scheduler Thread - 12/INFO]: [AuthMe] last_reliance logged in 192.168.1.7
-[10:47:22] [Server thread/INFO]: last_reliance has made the advancement [Isn't It Iron Pick]
-[10:47:22] [Server thread/INFO]: last_reliance has made the advancement [Stone Age]
-[10:47:22] [Server thread/INFO]: last_reliance has made the advancement [Acquire Hardware]
-[10:47:22] [Server thread/INFO]: last_reliance has made the advancement [Suit Up]
-[10:47:49] [Server thread/INFO]: Set the weather to clear
-[10:47:55] [Server thread/INFO]: Set the time to 1000
-[10:48:21] [Server thread/INFO]: Startup script './start.sh' does not exist! Stopping server.
-[10:48:21] [Server thread/INFO]: last_reliance lost connection: Server is restarting
-[10:48:21] [Server thread/INFO]: Stopping server
-[10:48:21] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[10:48:21] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[10:48:21] [Server thread/INFO]: Saving players
-[10:48:21] [Server thread/INFO]: Saving worlds
-[10:48:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
-[10:48:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[10:48:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
-[10:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:48:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
-[10:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[10:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:48:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:48:23] [Server thread/INFO]: Flushing Chunk IO
-[10:48:23] [Server thread/INFO]: Closing Thread Pool
-[10:48:23] [Server thread/INFO]: Closing Server
+[14:19:34] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
+[14:19:34] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
+[14:19:34] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[14:19:34] [Server thread/INFO]: [AuthMe] Checking for updates...
+[14:19:35] [Server thread/INFO]: Running delayed init tasks
+[14:19:35] [Server thread/INFO]: Done (8.460s)! For help, type "help"
+[14:19:35] [Server thread/INFO]: Timings Reset
+[14:19:38] [User Authenticator #1/INFO]: UUID of player last_reliance is 5fca15f8-e503-312b-9fa6-087d8e8af11d
+[14:19:40] [Server thread/INFO]: last_reliance[/192.168.1.7:63658] logged in with entity id 253 at ([MAIN VVORLD]131.78364332713585, 82.0, 260.5729150369832)
+[14:19:41] [Craft Scheduler Thread - 3/INFO]: [AuthMe] last_reliance logged in 192.168.1.7
+[14:19:43] [User Authenticator #1/INFO]: UUID of player Ogurets957 is c6cd7338-3df9-3442-b768-4b6e9c1d76f6
+[14:19:43] [Craft Scheduler Thread - 2/INFO]: [AuthMe] You are running the latest version.
+[14:19:43] [Server thread/INFO]: Ogurets957[/192.168.1.6:61019] logged in with entity id 261 at ([MAIN VVORLD]123.43124005096618, 12.0, 123.21401577355662)
+[14:19:44] [Craft Scheduler Thread - 2/INFO]: [AuthMe] Ogurets957 logged in 192.168.1.6
+[14:19:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[14:19:47] [Server thread/INFO]: Teleported Ogurets957 to last_reliance
+[14:20:41] [Server thread/INFO]: Ogurets957 lost connection: Disconnected
+[14:22:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:22:10] [Server thread/INFO]: ...ic.explode<--[HERE]
+[14:22:26] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:22:26] [Server thread/INFO]: ...ic.explode<--[HERE]
+[14:22:29] [Server thread/INFO]: Incorrect argument for command
+[14:22:29] [Server thread/INFO]: ...c.explode lastreliance<--[HERE]
+[14:22:33] [Server thread/INFO]: Incorrect argument for command
+[14:22:33] [Server thread/INFO]: ...c.explode 1<--[HERE]
+[14:22:35] [Server thread/INFO]: Incorrect argument for command
+[14:22:35] [Server thread/INFO]: ...c.explode 1 1<--[HERE]
+[14:23:39] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:47] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:51] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:52] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:52] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:53] [Server thread/INFO]: Incorrect argument for command
+[14:23:53] [Server thread/INFO]: ...c.explode 1 1<--[HERE]
+[14:23:53] [Server thread/INFO]: Incorrect argument for command
+[14:23:53] [Server thread/INFO]: ...c.explode 1 1<--[HERE]
+[14:23:55] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:56] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:57] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:57] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:58] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:23:58] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:00] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:15] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:18] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:22] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:25] [Server thread/INFO]: The sound is too far away to be heard
+[14:24:28] [Server thread/INFO]: The sound is too far away to be heard
+[14:24:32] [Server thread/INFO]: The sound is too far away to be heard
+[14:24:34] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:36] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:24:38] [Server thread/INFO]: The sound is too far away to be heard
+[14:24:40] [Server thread/INFO]: The sound is too far away to be heard
+[14:24:42] [Server thread/INFO]: Played sound minecraft:entity.generic.explode to last_reliance
+[14:26:18] [Server thread/INFO]: Gave 4 [Dark Oak Planks] to last_reliance
+[14:27:35] [Server thread/INFO]: Stopping the server
+[14:27:35] [Server thread/INFO]: Stopping server
+[14:27:35] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[14:27:35] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[14:27:35] [Server thread/INFO]: Saving players
+[14:27:36] [Server thread/INFO]: last_reliance lost connection: Server closed
+[14:27:36] [Server thread/INFO]: last_reliance left the game
+[14:27:36] [Server thread/INFO]: Saving worlds
+[14:27:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[14:27:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:27:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:27:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:27:37] [Server thread/INFO]: Flushing Chunk IO
+[14:27:37] [Server thread/INFO]: Closing Thread Pool
+[14:27:37] [Server thread/INFO]: Closing Server
