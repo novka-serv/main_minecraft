@@ -1,35 +1,21 @@
-[00:02:16] [Server thread/INFO]: Gave 4 experience points to last_reliance
-[00:02:21] [Server thread/INFO]: Gave 5 experience points to last_reliance
-[00:02:28] [Server thread/INFO]: Gave 30 experience points to last_reliance
-[00:02:34] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:03:23] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:05:20] [Server thread/INFO]: Gave 20 [Leather] to last_reliance
-[00:06:42] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:06:48] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:06:51] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:06:53] [Server thread/INFO]: Gave 300 experience points to last_reliance
-[00:11:37] [Server thread/INFO]: last_reliance was shot by Skeleton
-[00:12:27] [Server thread/INFO]: last_reliance was blown up by Creeper
-[00:13:35] [Server thread/INFO]: last_reliance was slain by Zombie
-[00:13:46] [Server thread/INFO]: The difficulty has been set to Peaceful
-[00:15:46] [Server thread/INFO]: Teleported last_reliance to 76.0, 64.0, 248.0
-[00:15:51] [Server thread/INFO]: The difficulty has been set to Normal
-[00:16:02] [Server thread/INFO]: last_reliance lost connection: Disconnected
-[00:16:14] [Server thread/INFO]: Stopping the server
-[00:16:14] [Server thread/INFO]: Stopping server
-[00:16:14] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[00:16:14] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[00:16:14] [Server thread/INFO]: Saving players
-[00:16:14] [Server thread/INFO]: Saving worlds
-[00:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
-[00:16:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[00:16:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
-[00:16:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
-[00:16:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:16:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[00:16:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:16:15] [Server thread/INFO]: Flushing Chunk IO
-[00:16:15] [Server thread/INFO]: Closing Thread Pool
-[00:16:15] [Server thread/INFO]: Closing Server
+[00:02:02] [Server thread/INFO]: novatrace lost connection: Disconnected
+[00:22:38] [Server thread/INFO]: Stopping the server
+[00:22:38] [Server thread/INFO]: Stopping server
+[00:22:38] [Server thread/INFO]: [CordBook] Disabling CordBook v1.0.0
+[00:22:38] [Server thread/INFO]: [CordBook] CordBook has been disabled!
+[00:22:39] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[00:22:39] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[00:22:39] [Server thread/INFO]: Saving players
+[00:22:39] [Server thread/INFO]: Saving worlds
+[00:22:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[00:22:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:22:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:22:39] [Server thread/INFO]: Flushing Chunk IO
+[00:22:39] [Server thread/INFO]: Closing Thread Pool
+[00:22:39] [Server thread/INFO]: Closing Server
