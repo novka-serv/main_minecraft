@@ -1,23 +1,21 @@
-[00:07:19] [Server thread/INFO]: Ogurets957 lost connection: Kicked by an operator
-[00:07:19] [Server thread/INFO]: Kicked Ogurets957: Kicked by an operator
-[01:33:06] [Server thread/INFO]: novatrace lost connection: Disconnected
-[01:40:18] [Server thread/INFO]: Stopping the server
-[01:40:18] [Server thread/INFO]: Stopping server
-[01:40:18] [Server thread/INFO]: [CordBook] Disabling CordBook v1.0.0
-[01:40:18] [Server thread/INFO]: [CordBook] CordBook has been disabled!
-[01:40:18] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[01:40:18] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[01:40:18] [Server thread/INFO]: Saving players
-[01:40:18] [Server thread/INFO]: Saving worlds
-[01:40:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[01:40:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:40:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:40:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:40:19] [Server thread/INFO]: Flushing Chunk IO
-[01:40:19] [Server thread/INFO]: Closing Thread Pool
-[01:40:19] [Server thread/INFO]: Closing Server
+[00:15:45] [Server thread/INFO]: novatrace lost connection: Disconnected
+[01:08:57] [Server thread/INFO]: Stopping the server
+[01:08:57] [Server thread/INFO]: Stopping server
+[01:08:57] [Server thread/INFO]: [CordBook] Disabling CordBook v1.0.0
+[01:08:57] [Server thread/INFO]: [CordBook] CordBook has been disabled!
+[01:08:57] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[01:08:57] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[01:08:57] [Server thread/INFO]: [PingPlugin] Disabling PingPlugin v1.0.0
+[01:08:57] [Server thread/INFO]: [PingPlugin] PingPlugin has been disabled!
+[01:08:57] [Server thread/INFO]: Saving players
+[01:08:57] [Server thread/INFO]: Saving worlds
+[01:08:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[01:08:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:08:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:08:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:08:57] [Server thread/INFO]: Flushing Chunk IO
