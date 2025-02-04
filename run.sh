@@ -1,1 +1,1 @@
-java -DPaper.IgnoreJavaVersion=true -Xms256M -Xmx1024M -jar server.jar nogui
+java -DPaper.IgnoreJavaVersion=true -Xms512M -Xmx2048M -jar server.jar nogui
