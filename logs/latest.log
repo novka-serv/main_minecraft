@@ -1,266 +1,52 @@
-[10:19:50] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:19:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[10:19:54] [Worker-Main-1/INFO]: Loaded 7 recipes
-[10:19:59] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[10:19:59] [Server thread/INFO]: Loading properties
-[10:19:59] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[10:20:00] [Server thread/INFO]: Debug logging is disabled
-[10:20:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:20:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:20:00] [Server thread/INFO]: Default game type: SURVIVAL
-[10:20:00] [Server thread/INFO]: Generating keypair
-[10:20:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:20:01] [Server thread/INFO]: Using epoll channel type
-[10:20:03] [Server thread/INFO]: [PingPlugin] Loading PingPlugin v1.0.0
-[10:20:04] [Server thread/INFO]: [AuthMe] Loading AuthMe v5.7.0-FORK-b53
-[10:20:04] [Server thread/INFO]: [CordBook] Loading CordBook v1.0.0
-[10:20:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:20:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[10:20:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[10:20:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[10:20:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[10:20:04] [Server thread/INFO]: Preparing level "MAIN VVORLD"
-[10:20:04] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD] --------
-[10:20:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:20:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:20:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:20:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:20:04] [Server thread/INFO]: Max TNT Explosions: 100
-[10:20:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:20:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:20:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:20:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:20:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:20:04] [Server thread/INFO]: View Distance: 8
-[10:20:04] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:20:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:20:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:20:04] [Server thread/INFO]: Mob Spawn Range: 4
-[10:20:04] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_nether] --------
-[10:20:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:20:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:20:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:20:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:20:04] [Server thread/INFO]: Max TNT Explosions: 100
-[10:20:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:20:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:20:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:20:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:20:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:20:04] [Server thread/INFO]: View Distance: 8
-[10:20:04] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:20:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:20:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:20:04] [Server thread/INFO]: Mob Spawn Range: 4
-[10:20:04] [Server thread/INFO]: -------- World Settings For [MAIN VVORLD_the_end] --------
-[10:20:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[10:20:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Potato Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[10:20:04] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[10:20:05] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[10:20:05] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[10:20:05] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[10:20:05] [Server thread/INFO]: Max TNT Explosions: 100
-[10:20:05] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[10:20:05] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[10:20:05] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[10:20:05] [Server thread/INFO]: Item Merge Radius: 2.5
-[10:20:05] [Server thread/INFO]: Item Despawn Rate: 6000
-[10:20:05] [Server thread/INFO]: View Distance: 8
-[10:20:05] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[10:20:05] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[10:20:05] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[10:20:05] [Server thread/INFO]: Mob Spawn Range: 4
-[10:20:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:07] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:07] [Server thread/INFO]: Preparing spawn area: 1%
-[10:20:08] [Server thread/INFO]: Preparing spawn area: 17%
-[10:20:08] [Server thread/INFO]: Preparing spawn area: 46%
-[10:20:09] [Server thread/INFO]: Preparing spawn area: 89%
-[10:20:09] [Server thread/INFO]: Preparing spawn area: 99%
-[10:20:11] [Server thread/INFO]: Time elapsed: 6738 ms
-[10:20:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:20:12] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:12] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:13] [Server thread/INFO]: Preparing spawn area: 22%
-[10:20:13] [Server thread/INFO]: Preparing spawn area: 23%
-[10:20:13] [Server thread/INFO]: Preparing spawn area: 66%
-[10:20:15] [Server thread/INFO]: Time elapsed: 3211 ms
-[10:20:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:20:15] [Server thread/INFO]: Preparing spawn area: 0%
-[10:20:15] [Server thread/INFO]: Preparing spawn area: 11%
-[10:20:16] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:16] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:17] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:17] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:18] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:18] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:19] [Worker-Main-1/INFO]: Preparing spawn area: 100%
-[10:20:19] [Server thread/INFO]: Time elapsed: 4808 ms
-[10:20:19] [Server thread/INFO]: [PingPlugin] Enabling PingPlugin v1.0.0
-[10:20:19] [Server thread/INFO]: [PingPlugin] PingPlugin has been enabled!
-[10:20:19] [Server thread/INFO]: [AuthMe] Enabling AuthMe v5.7.0-FORK-b53
-[10:20:20] [Server thread/INFO]: [AuthMe] You are running an unofficial fork version of AuthMe!
-[10:20:22] [Server thread/INFO]: [AuthMe] SQLite Setup finished
-[10:20:22] [Server thread/INFO]: [AuthMe] No supported permissions system found! Permissions are disabled!
-[10:20:24] [Server thread/INFO]: [AuthMe] 
-    ___         __  __    __  ___   
-   /   | __  __/ /_/ /_  /  |/  /__ 
-  / /| |/ / / / __/ __ \/ /|_/ / _ \
- / ___ / /_/ / /_/ / / / /  / /  __/
-/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
-                                    
-[10:20:24] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is running on Paper
-[10:20:24] [Server thread/INFO]: [AuthMe] AuthMeReReloaded is enabled successfully!
-[10:20:24] [Server thread/INFO]: [AuthMe] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
-[10:20:24] [Server thread/INFO]: [AuthMe] Checking for updates...
-[10:20:24] [Server thread/INFO]: [CordBook] Enabling CordBook v1.0.0
-[10:20:24] [Server thread/INFO]: [CordBook] CordBook has been enabled!
-[10:20:24] [Server thread/INFO]: Running delayed init tasks
-[10:20:24] [Server thread/INFO]: Done (24.969s)! For help, type "help"
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[10:20:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[10:20:24] [Server thread/INFO]: Timings Reset
-[10:20:26] [User Authenticator #1/INFO]: UUID of player 06blackBerry29 is 96b70fd5-29d6-3c35-af35-2b08e05817d8
-[10:20:28] [Craft Scheduler Thread - 2/INFO]: [AuthMe] You are running the latest version.
-[10:20:28] [Server thread/INFO]: 06blackBerry29[/109.163.220.113:4788] logged in with entity id 234 at ([MAIN VVORLD]-195.3830058180251, 86.0, 764.809944732311)
-[10:20:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5876ms or 117 ticks behind
-[10:20:59] [Craft Scheduler Thread - 5/INFO]: [AuthMe] 06blackBerry29 logged in 109.163.220.113
-[10:20:59] [User Authenticator #1/INFO]: UUID of player novatrace is 53d9d3f7-aa0a-373a-92ef-d452955cf744
-[10:21:09] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-794 (MC: 1.16.5) ---
-[10:21:09] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
-[10:21:09] [Paper Watchdog Thread/ERROR]: ------------------------------
-[10:21:09] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
-[10:21:09] [Paper Watchdog Thread/ERROR]: ------------------------------
-[10:21:09] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
-[10:21:09] [Paper Watchdog Thread/ERROR]: 	PID: 18 | Suspended: false | Native: false | State: RUNNABLE
-[10:21:09] [Paper Watchdog Thread/ERROR]: 	Stack:
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//io.netty.buffer.AbstractByteBuf.ensureWritable0(AbstractByteBuf.java:287)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//io.netty.buffer.AbstractByteBuf.writeShort(AbstractByteBuf.java:992)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PacketDataSerializer.writeShort(PacketDataSerializer.java:928)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkSection.b(ChunkSection.java:171)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ChunkSection.writeChunkSection(ChunkSection.java:168)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PacketPlayOutMapChunk.a(PacketPlayOutMapChunk.java:206)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PacketPlayOutMapChunk.writeChunk(PacketPlayOutMapChunk.java:194)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PacketPlayOutMapChunk.<init>(PacketPlayOutMapChunk.java:85)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.a(PlayerChunkMap.java:2236)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.sendChunk(PlayerChunkMap.java:1605)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.lambda$new$9(PlayerChunkMap.java:495)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap$$Lambda$3440/0x00000008409d3840.accept(Unknown Source)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//com.destroystokyo.paper.util.misc.AreaMap.addObjectTo(AreaMap.java:228)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//com.destroystokyo.paper.util.misc.AreaMap.addObject(AreaMap.java:279)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//com.destroystokyo.paper.util.misc.AreaMap.add(AreaMap.java:129)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.addPlayerToDistanceMaps(PlayerChunkMap.java:282)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.a(PlayerChunkMap.java:1880)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerChunkMap.addEntity(PlayerChunkMap.java:2060)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerList.postChunkLoadJoin(PlayerList.java:390)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerList.lambda$a$1(PlayerList.java:303)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerList$$Lambda$4129/0x0000000840e71440.run(Unknown Source)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.PlayerConnection.tick(PlayerConnection.java:316)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.NetworkManager.a(NetworkManager.java:408)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.ServerConnection.c(ServerConnection.java:168)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1520)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3139/0x0000000840866840.run(Unknown Source)
-[10:21:09] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.25/java.lang.Thread.run(Thread.java:829)
-[10:21:09] [Paper Watchdog Thread/ERROR]: ------------------------------
-[10:21:09] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[10:21:09] [Paper Watchdog Thread/ERROR]: ------------------------------
-[10:21:10] [Server thread/INFO]: novatrace[/90.188.242.232:4609] logged in with entity id 275 at ([MAIN VVORLD]8.021028518275335, 68.0, 660.6759920483586)
-[10:21:11] [Craft Scheduler Thread - 7/INFO]: [AuthMe] novatrace logged in 90.188.242.232
-[10:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14260ms or 285 ticks behind
-[10:21:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12153ms or 243 ticks behind
-[10:22:55] [Server thread/INFO]: Teleported novatrace to 06blackBerry29
-[10:23:25] [Server thread/INFO]: novatrace issued server command: /set flowers
-[10:23:26] [Server thread/INFO]: novatrace ???????? ?????????? -222.563922 63.000000 869.805356 ??? flowers
-[10:40:16] [Server thread/INFO]: 06blackBerry29 has made the advancement [The Parrots and the Bats]
-[10:47:49] [Server thread/INFO]: 06blackBerry29 lost connection: Disconnected
-[10:47:54] [Server thread/INFO]: novatrace lost connection: Disconnected
-[10:48:01] [Server thread/INFO]: Stopping the server
-[10:48:01] [Server thread/INFO]: Stopping server
-[10:48:01] [Server thread/INFO]: [CordBook] Disabling CordBook v1.0.0
-[10:48:01] [Server thread/INFO]: [CordBook] CordBook has been disabled!
-[10:48:01] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
-[10:48:02] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
-[10:48:02] [Server thread/INFO]: [PingPlugin] Disabling PingPlugin v1.0.0
-[10:48:02] [Server thread/INFO]: [PingPlugin] PingPlugin has been disabled!
-[10:48:02] [Server thread/INFO]: Saving players
-[10:48:02] [Server thread/INFO]: Saving worlds
-[10:48:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
-[10:48:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[10:48:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
-[10:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:48:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
-[10:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
-[10:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10:48:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10:48:03] [Server thread/INFO]: Flushing Chunk IO
-[10:48:03] [Server thread/INFO]: Closing Thread Pool
-[10:48:03] [Server thread/INFO]: Closing Server
+[09:28:14] [User Authenticator #4/INFO]: UUID of player novatrace is 53d9d3f7-aa0a-373a-92ef-d452955cf744
+[09:28:15] [Server thread/INFO]: [novatrace присоединился(лась) к серверу]
+[09:28:16] [Server thread/INFO]: novatrace[/45.136.144.21:50211] logged in with entity id 1094 at ([MAIN VVORLD]101.04812050518787, 55.0, 251.0847880240038)
+[09:28:49] [Craft Scheduler Thread - 861/INFO]: [AuthMe] novatrace logged in 45.136.144.21
+[09:50:37] [Server thread/INFO]: Set novatrace's game mode to Spectator Mode
+[09:54:36] [Server thread/INFO]: Set novatrace's game mode to Survival Mode
+[09:55:10] [Server thread/INFO]: novatrace lost connection: Disconnected
+[09:55:10] [Server thread/INFO]: [novatrace вышел(ла) из сервера]
+[11:37:25] [User Authenticator #5/INFO]: UUID of player novatrace is 53d9d3f7-aa0a-373a-92ef-d452955cf744
+[11:37:25] [Server thread/INFO]: [novatrace присоединился(лась) к серверу]
+[11:37:25] [Server thread/INFO]: novatrace[/45.136.144.21:50161] logged in with entity id 1984 at ([MAIN VVORLD]84.5, 68.5625, 250.5)
+[11:37:25] [Craft Scheduler Thread - 890/INFO]: [AuthMe] novatrace logged in 45.136.144.21
+[12:25:18] [Server thread/INFO]: novatrace lost connection: Disconnected
+[12:25:18] [Server thread/INFO]: [novatrace вышел(ла) из сервера]
+[12:25:51] [User Authenticator #6/INFO]: UUID of player novatrace is 53d9d3f7-aa0a-373a-92ef-d452955cf744
+[12:25:52] [Server thread/INFO]: [novatrace присоединился(лась) к серверу]
+[12:25:52] [Server thread/INFO]: novatrace[/45.136.144.21:51327] logged in with entity id 3515 at ([MAIN VVORLD]44.38973078056358, 64.0, 245.2023063121713)
+[12:25:52] [Craft Scheduler Thread - 903/INFO]: [AuthMe] novatrace logged in 45.136.144.21
+[12:26:01] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:05] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:06] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:07] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:08] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:10] [Server thread/INFO]: novatrace issued server command: /ping all
+[12:26:30] [Server thread/INFO]: novatrace issued server command: /ping
+[12:26:33] [Server thread/INFO]: novatrace issued server command: /ping
+[12:29:39] [Server thread/INFO]: novatrace lost connection: Disconnected
+[12:29:39] [Server thread/INFO]: [novatrace вышел(ла) из сервера]
+[12:29:50] [Server thread/INFO]: Stopping the server
+[12:29:50] [Server thread/INFO]: Stopping server
+[12:29:50] [Server thread/INFO]: [CordBook] Disabling CordBook v1.0.0
+[12:29:50] [Server thread/INFO]: [CordBook] CordBook has been disabled!
+[12:29:50] [Server thread/INFO]: [LoggingPlugin] Disabling LoggingPlugin v1.0.0
+[12:29:50] [Server thread/INFO]: [LoggingPlugin] PingPlugin has been disabled!
+[12:29:50] [Server thread/INFO]: [AuthMe] Disabling AuthMe v5.7.0-FORK-b53
+[12:29:50] [Server thread/INFO]: [AuthMe] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[12:29:50] [Server thread/INFO]: [PingPlugin] Disabling PingPlugin v1.0.0
+[12:29:50] [Server thread/INFO]: [PingPlugin] PingPlugin has been disabled!
+[12:29:50] [Server thread/INFO]: Saving players
+[12:29:50] [Server thread/INFO]: Saving worlds
+[12:29:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD]'/minecraft:overworld
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[12:29:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_nether]'/minecraft:the_nether
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:29:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[MAIN VVORLD_the_end]'/minecraft:the_end
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (MAIN VVORLD): All chunks are saved
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:29:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:29:52] [Server thread/INFO]: Flushing Chunk IO
+[12:29:52] [Server thread/INFO]: Closing Thread Pool
+[12:29:52] [Server thread/INFO]: Closing Server

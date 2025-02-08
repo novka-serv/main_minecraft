@@ -15,7 +15,7 @@ tmux new-session -d -s $session
 tmux split-window -h
 tmux send-keys -t $session:0.1 "btop" C-m
 tmux select-pane -t $session:0.0
-tmux send-keys -t $session:0.0 "git diff --name-only" C-m
+tmux send-keys -t $session:0.0 "git --no-pager diff --name-only" C-m
 
 
 tmux attach -t $session
