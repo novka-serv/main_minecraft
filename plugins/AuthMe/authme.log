@@ -1297,3 +1297,19 @@
 [02-08 11:37:25]: [INFO:FINE] novatrace logged in 45.136.144.21
 [02-08 12:25:52]: [INFO:FINE] novatrace logged in 45.136.144.21
 [02-08 12:29:50]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!
+[02-08 13:54:02]: [INFO] SQLite Setup finished
+[02-08 13:54:02]: [INFO] No supported permissions system found! Permissions are disabled!
+[02-08 13:54:03]: [INFO] 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+[02-08 13:54:03]: [INFO] AuthMeReReloaded is running on Paper
+[02-08 13:54:03]: [INFO] AuthMeReReloaded is enabled successfully!
+[02-08 13:54:03]: [INFO] GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+[02-08 13:54:03]: [INFO] Checking for updates...
+[02-08 13:54:06]: [INFO] You are running the latest version.
+[02-08 13:54:41]: [INFO:FINE] novatrace logged in 45.136.144.21
+[02-08 13:57:42]: [INFO] AuthMe 5.7.0-FORK-b53 is unloaded successfully!

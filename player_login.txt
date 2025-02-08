@@ -34,3 +34,4 @@
 [08.02.25-17:25] novatrace logged OFF
 [08.02.25-17:25] novatrace logged IN
 [08.02.25-17:29] novatrace logged OFF
+[08.02.25-18:54] novatrace logged IN
