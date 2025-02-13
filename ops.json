@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "53d9d3f7-aa0a-373a-92ef-d452955cf744",
+    "name": "novatrace",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
